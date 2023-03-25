@@ -33,7 +33,7 @@
                         <span class="white-text">
                             <h3>Jeremias Jalil</h3>
                             <div class="collection">
-                                <a href="https://jerejalil.com" class="collection-item"><span
+                                <a href="https://github.com/jeremias-jalil/vue-demo-post" class="collection-item"><span
                                         class="badge"></span>Repository</a>
                                 <a href="https://www.linkedin.com/in/jeremiasjalil/" class="collection-item"><span
                                         class="badge"></span>LinkedIn</a>
